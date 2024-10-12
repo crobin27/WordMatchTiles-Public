@@ -2,6 +2,11 @@
 
 ![Feature Image](feature-graphic.png)
 
+## 📲 **Download Word Match Tiles**
+
+- **[Download for Android](https://play.google.com/store/apps/dev?id=5076857182402717618)**
+- **[Download for iOS](https://apps.apple.com/us/developer/cole-robinson/id1703674983)**
+- 
 ## 🛠️ **Technologies Used**
 
 - **Unity Gaming Services**: Auth, IAP (In-App Purchases), CloudSave, Economy
@@ -18,7 +23,4 @@
 - **DoTween**: For smooth animations and transitions
 - **Particle Systems**: For dynamic and engaging visual effects
 
-## 📲 **Download Word Match Tiles**
 
-- **[Download for Android](https://play.google.com/store/apps/dev?id=5076857182402717618)**
-- **[Download for iOS](https://apps.apple.com/us/developer/cole-robinson/id1703674983)**
